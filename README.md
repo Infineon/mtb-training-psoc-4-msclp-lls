@@ -5,6 +5,11 @@ This training introduces Liquid Level Sensing (LLS) on the 5th generation Multi-
 ## Device family
 - [PSOC™ 4](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/psoc-4-mcu)
 
+## How to use this training?
+1. Download the training [content](#content).
+2. Watch the video or review the presentation at your own pace.
+3. Follow the step-by-step instructions in the training manual during the hands-on sections.
+
 ## Training level
 - E2: Intermediate
 
@@ -35,7 +40,7 @@ See [training content](#content) for versions and instructions.
 
 
 ## Content
--  [Training video at Infineon Academy]()
+-  [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/83636dda-036c-41e7-9beb-209d36a7dda3)
 - [Presentation](./Presentation/PSOC(TM)%204%20Liquid%20Level%20Sensing%20(LLS)%20training.pdf)
 - [Training manual](./Manual/PSOC(TM)%204%20Liquid%20Level%20Sensing%20(LLS)%20training%20manual.pdf)
 
